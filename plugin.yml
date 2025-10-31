@@ -1,0 +1,11 @@
+name: TradeAPI
+version: 1.0.0-alpha
+api: 5.36.0
+author: SeraFimKh
+main: Trade\TradeAPI
+
+
+
+permissions:
+  trade.op:
+    default: op
